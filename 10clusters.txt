@@ -1,0 +1,15 @@
+# 10-cluster physiological climate classification
+# File: 10clusters.tif
+# Authors: Gardner et al., 2020
+
+Zone references are as follows:
+# 1: Polar
+# 2: Tundra
+# 3: Boreal
+# 4: Continental
+# 5: Temperate
+# 6: Semi-arid
+# 7: Desert
+# 8: Tropical savanna
+# 9: Tropical wet
+# 10: Tropical rainforest
